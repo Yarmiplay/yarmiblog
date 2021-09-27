@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yarmiplay - Blog</title>
-    <link>https://yarmiplay.github.io/</link>
+    <link>https://yarmiplay.github.io/yarmiblog/</link>
     <description>Recent content on Yarmiplay - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Sep 2021 02:00:00 +0300</lastBuildDate><atom:link href="https://yarmiplay.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 02:00:00 +0300</lastBuildDate><atom:link href="https://yarmiplay.github.io/yarmiblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My new home</title>
-      <link>https://yarmiplay.github.io/posts/mynewhome/</link>
+      <link>https://yarmiplay.github.io/yarmiblog/posts/mynewhome/</link>
       <pubDate>Tue, 28 Sep 2021 02:00:00 +0300</pubDate>
       
-      <guid>https://yarmiplay.github.io/posts/mynewhome/</guid>
+      <guid>https://yarmiplay.github.io/yarmiblog/posts/mynewhome/</guid>
       <description>I&amp;rsquo;m just testing out how to work with this new blog format that is fully customizable, finally something I can call my own and be happy with, after a while of having some free hosted blogs that I wasn&amp;rsquo;t happy with.</description>
     </item>
     
